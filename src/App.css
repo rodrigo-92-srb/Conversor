@@ -1,0 +1,32 @@
+.Tudo{
+    background-color: seagreen;
+   /* background-image: ;*/
+}
+.linha1{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+    background-color: skyblue;
+}
+.linha2{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+    background-color: tomato;
+}
+.linha3{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+    background-color: yellowgreen;
+}
+
+h1{
+    text-align: center;
+    background-color: seagreen;
+}
+.App{
+    margin: auto;
+    max-width: 900px;
+    background-color: white;
+}
